@@ -2,11 +2,11 @@
 
 - #### Overall network architecture of the proposed HA-SiamVGG tracker
 
-![](./pics/overall.png)
+![overall](pics/overall.png)
 
 - #### **Results on OTB2015**
 
-  ![](./pics/OTB.png)
+  ![OTB](pics/OTB.png)
 
 #### Test the tracker
 
